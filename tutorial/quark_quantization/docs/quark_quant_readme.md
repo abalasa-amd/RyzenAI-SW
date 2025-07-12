@@ -29,6 +29,7 @@ Add python packages needed for the tutorial:
 
 ```bash
 pip install -r requirements.txt
+xcopy /I "%RYZEN_AI_INSTALLATION_PATH%\voe-4.0-win_amd64\vaip_config.json" .
 ``` 
 
 Input model
