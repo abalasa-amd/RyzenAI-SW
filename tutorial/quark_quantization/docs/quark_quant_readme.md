@@ -25,7 +25,7 @@ conda create --name quark_quantization --clone %RYZEN_AI_CONDA_ENV_NAME%
 conda activate quark_quantization
 ```
 
-Add python packages needed for the tutorial:
+Add python packages needed for the tutorial and the config file needed for inference.
 
 ```bash
 pip install -r requirements.txt
