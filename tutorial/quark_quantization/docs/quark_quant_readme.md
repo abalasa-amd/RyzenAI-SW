@@ -28,7 +28,7 @@ conda activate quark_quantization
 Add python packages needed for the tutorial:
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ``` 
 
 Input model
